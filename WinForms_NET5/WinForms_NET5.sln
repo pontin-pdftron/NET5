@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinForms_NET5", "WinForms_NET5\WinForms_NET5.csproj", "{9B100F84-F1C1-4528-958C-2EADA3B9E26B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B100F84-F1C1-4528-958C-2EADA3B9E26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B100F84-F1C1-4528-958C-2EADA3B9E26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B100F84-F1C1-4528-958C-2EADA3B9E26B}.Debug|x64.ActiveCfg = Debug|x64
+		{9B100F84-F1C1-4528-958C-2EADA3B9E26B}.Debug|x64.Build.0 = Debug|x64
+		{9B100F84-F1C1-4528-958C-2EADA3B9E26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B100F84-F1C1-4528-958C-2EADA3B9E26B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B100F84-F1C1-4528-958C-2EADA3B9E26B}.Release|x64.ActiveCfg = Release|x64
+		{9B100F84-F1C1-4528-958C-2EADA3B9E26B}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD3DBA05-D648-40F8-951C-EFC0D9F40127}
+	EndGlobalSection
+EndGlobal
