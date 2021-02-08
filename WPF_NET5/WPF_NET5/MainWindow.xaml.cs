@@ -59,7 +59,7 @@ namespace WpfAppTest
                     pt3.x = 200; pt3.y = 100;
                     ink.SetPoint(1, 2, pt3);
                     pt3.x = 166; pt3.y = 86;
-                    ink.SetPoint(2, 0, pt3);s
+                    ink.SetPoint(2, 0, pt3);
                     pt3.x = 196; pt3.y = 96;
                     ink.SetPoint(2, 1, pt3);
                     pt3.x = 221; pt3.y = 121;
